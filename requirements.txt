@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+Pillow
+matplotlib
+# Install a compatible CUDA-enabled torch/torchvision pair first (see README).
+torch
+torchvision
